@@ -1,1 +1,1 @@
-testconflict on other branch :)
+testconflict on conflict branch :)
