@@ -1,5 +1,6 @@
 # sprite3D.js
 * [Demo](http://local.dev/demo_sprite3D/final.html)
+* [Homepage](http://minimal.be/lab/Sprite3D/)
 * very as3 like, easy syntax
 * example
 
