@@ -1,8 +1,9 @@
 # sprite3D.js
-* [Demo](http://local.dev/demo_sprite3D/final.html)
-* [Homepage](http://minimal.be/lab/Sprite3D/)
-* very as3 like, easy syntax
-* example
+[Demo](http://local.dev/demo_sprite3D/final.html)<br>
+[Homepage](http://minimal.be/lab/Sprite3D/)
+
+* Easy syntax
+* Example
 
 		// display 3D content
 		// Create the stage
@@ -14,6 +15,8 @@
 
 # sublime text 3
 
+[homepage](http://www.sublimetext.com/3)
+
 * Goto Definition
 * goto symbol in project
 * retina improvements
@@ -24,7 +27,7 @@
 
 * zipping files
 * Dropboxing files
-* ical automatic tasks
+* ical timed tasks
 * other
 	* [top 10](http://mac.tutsplus.com/tutorials/automation/10-awesome-uses-for-automator-explained/)
 	* [70](http://www.macstories.net/roundups/a-collection-of-70-automator-actions-workflows-and-tuts-for-designers-and-bloggers/)
